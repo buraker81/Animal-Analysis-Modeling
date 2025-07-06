@@ -2,6 +2,11 @@
 
 This repository contains the code and results for analyzing the **Animal Dataset.csv** file using R (RStudio).
 
+> **Course Context**  
+> This work was completed as part of *CMPE 343 – Business Intelligence & Applied Analytics* (elective) course project.
+
+## Motivation
+
 ## Overview
 
 This project walks through a complete data‑science pipeline in **R**. Starting with the raw **Animal Dataset.csv**, we apply rigorous data‑cleaning and feature‑engineering steps—handling missing values, parsing inconsistent units, and creating tidy features—to generate **Animal Dataset Cleaned.csv**.
