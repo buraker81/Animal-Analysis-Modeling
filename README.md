@@ -2,6 +2,11 @@
 
 This repository contains the code and results for analyzing the **Animal Dataset.csv** file using R (RStudio).
 
+> **Course Context**  
+> This work was completed as part of *CMPE 343 – Business Intelligence & Applied Analytics* (elective) course project.
+
+## Motivation
+
 ## Overview
 
 This project walks through a complete data‑science pipeline in **R**. Starting with the raw **Animal Dataset.csv**, we apply rigorous data‑cleaning and feature‑engineering steps—handling missing values, parsing inconsistent units, and creating tidy features—to generate **Animal Dataset Cleaned.csv**.
@@ -55,5 +60,5 @@ Data‑cleaning is implemented in `animal_dataset_cleaning.R`, while the explora
 | **Decision Tree** | Explains \~42% of variance in `Top_Speed_kmh`; key split at `weight_kg ≈ 35` separates most fast vs. slow species. |
 |                   |                                                                                                                    |
 
-> ### Full visuals are available in the `` folder and in *Animal\_Dataset\_Final\_Presentation.pdf.*
+### Full visuals are available in the `Visualization/` folder and in *Animal\_Dataset\_Final\_Presentation.pdf.*
 
