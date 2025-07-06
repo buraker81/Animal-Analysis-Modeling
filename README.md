@@ -55,5 +55,5 @@ Data‑cleaning is implemented in `animal_dataset_cleaning.R`, while the explora
 | **Decision Tree** | Explains \~42% of variance in `Top_Speed_kmh`; key split at `weight_kg ≈ 35` separates most fast vs. slow species. |
 |                   |                                                                                                                    |
 
-> ### Full visuals are available in the `` folder and in *Animal\_Dataset\_Final\_Presentation.pdf.*
+### Full visuals are available in the `` folder and in *Animal\_Dataset\_Final\_Presentation.pdf.*
 
